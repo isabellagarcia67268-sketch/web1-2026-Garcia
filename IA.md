@@ -8,33 +8,22 @@
 > Declararlo honestamente NO baja tu nota. Lo que se evalúa es tu capacidad de auditar.
 
 ## Herramientas que usé
-<!-- Ej.: GitHub Copilot en VS Code, ChatGPT, Claude, Cursor. Indica también si no usaste ninguna. -->
+Utilicé ChatGPT como apoyo para consultar algunas etiquetas de HTML que no había utilizado en clase y que no conocía.
 
 ## Qué le pedí
-<!-- Escribe el prompt real, no un resumen idealizado -->
-
-```
-```
+Para qué servían algunas etiquetas de HTML que aparecían en el ejercicio y que no había utilizado en clase, y cómo debía utilizarlas.
 
 ## Qué me devolvió
-<!-- Pega el fragmento relevante -->
-
-```javascript
-```
+Me explicó para qué servían las etiquetas y me mostró ejemplos de cómo se podían utilizar dentro del código HTML.
 
 ## Qué estaba mal
-<!-- La parte más importante del documento. Sé específico: qué falla, en qué caso,
-     por qué el código parecía correcto pero no lo era. Si de verdad no encontraste
-     ningún error, explica cómo lo verificaste (qué casos probaste). -->
+Algunas etiquetas que utilicé no las conocía porque no las habíamos trabajado en clase. Por eso no estaba segura de para qué servían ni de cómo se debían utilizar correctamente. El código principal sí lo realicé yo, pero tuve que consultar la función de esas etiquetas para poder entenderlas y utilizarlas en el ejercicio.
 
 ## Qué corregí y por qué
-<!-- Tu código final y el razonamiento del cambio -->
-
-```javascript
-```
+Corregí y adapté las partes en las que utilicé etiquetas que no conocía, después de entender para qué servían.
 
 ## Qué escribí yo desde cero
-<!-- Qué partes no delegaste, y por qué decidiste no delegarlas -->
+Hice todo el ejercicio por mi cuenta. Solo utilicé IA para entender algunas etiquetas nuevas que no había visto en clase.
 
 ## Reflexión
-<!-- ¿Te ahorró tiempo de verdad, o lo perdiste depurando? ¿Volverías a usarlo para esto? -->
+La IA me ayudó a entender algunas etiquetas que no había visto en clase y gracias a ella me sirvió para saber qué significaban y cómo utilizarlas correctamente.

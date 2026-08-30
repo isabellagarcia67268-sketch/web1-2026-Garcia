@@ -1,13 +1,14 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- Isabella Garcia Gutierrez-->
+**Nombre:** <!-- Isabella Garcia Gutirerrez -->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- isabellagarcia67268 -->
+**Usuario de GitHub:** <!-- isabellagarcia67268-sketch -->
 
 ## Sobre mí
 
-<!-- Me gustaria aprender a crear paginas web interactivas, me gustaria crear un juego de aventura y exploracion y he trabajado con los lenguajes Java y Python -->
+<!-- Me gustaria aprender a crear paginas web interactivas, me gustaria crear un juego 
+de aventura y he trabajado con los lenguajes de Java y Python  -->
 
 ## Progreso de la campaña
 
