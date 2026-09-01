@@ -1,14 +1,14 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** <!-- Isabella Garcia Gutirerrez -->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** <!-- isabellagarcia67268-sketch -->
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+<!-- Me gustaria aprender a crear paginas web interactivas, me gustaria crear un juego 
+de aventura y he trabajado con los lenguajes de Java y Python  -->
 
 ## Progreso de la campaña
 
